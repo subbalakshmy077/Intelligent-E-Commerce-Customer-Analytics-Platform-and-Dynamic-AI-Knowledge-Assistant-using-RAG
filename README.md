@@ -13,14 +13,7 @@ An end-to-end retail intelligence platform built on the Brazilian E-Commerce (Ol
 ## Tech Stack
 * Python, Pandas, NumPy, Scikit-Learn, Random Forest, XGBoost, SHAP, Matplotlib, Streamlit[cite: 3]
 
-## Setup & Execution
-1. Clone the repository and install dependencies:
-   ```bash
-   pip install -r requirements.txt
 
-###: Dynamic RAG Assistant
-
-```markdown
 # 🧠 Dynamic AI Knowledge Assistant using RAG
 
 ## Overview
